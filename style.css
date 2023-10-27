@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    background-color: #f0f0f0;
+    background-color: rgba(62, 19, 255, 0.17);
     width: 100%;
     position: fixed;
     z-index: 999;
